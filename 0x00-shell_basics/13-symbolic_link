@@ -1,0 +1,2 @@
+#!bin/basn
+ln -s /bin/ls _ls_
