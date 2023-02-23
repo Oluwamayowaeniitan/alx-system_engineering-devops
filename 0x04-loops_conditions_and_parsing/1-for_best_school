@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This is a script to loop words
+for ((i = 1; i <= 10; i++)); do
+echo "Best School"
+done
